@@ -33,6 +33,7 @@ public class test3_mafia {
 //	       
 //	    }
 	 
+	
 	 public int solution(String[][] clothes) {
 		  HashMap<String, Integer> map = new HashMap<String, Integer>();
 	      int answer = 1;
