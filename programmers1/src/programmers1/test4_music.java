@@ -37,7 +37,7 @@ public class test4_music {
 	    		if(m==maxG) {
 	    			List<Entry<String, Integer>> list = new ArrayList<>(map.entrySet());
 	    			list.sort(Entry.comparingByValue());
-	    			list.forEach()
+	    			//list.forEach()
 	    		}
 	    	}
 	    	
